@@ -2950,8 +2950,8 @@ input, select, textarea {
 }
 
   .wrapper.style1 .fade2{
-    -webkit-animation: 4s ease 0s normal forwards 1 fadein;
-    animation: 4s ease 0s normal forwards 1 fadein;
+    -webkit-animation: 3s ease 0s normal forwards 1 fadein;
+    animation: 3s ease 0s normal forwards 1 fadein;
 }
 
 
