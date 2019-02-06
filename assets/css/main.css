@@ -2937,7 +2937,7 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-color: #21b2a6;
 			color: #c8ece9;
-           height: 100vh;
+           height: 120vh;
 
 		}
 
@@ -3665,6 +3665,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.2s ease;
 			transition: opacity 0.2s ease;
 			height: inherit;
+   font-size: 1.1em;
 			left: 1.25em;
 			line-height: inherit;
 			position: absolute;
