@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+@import url(font-awesome.min.css);/Users/ziegler/Desktop/single_transits/webpage/assets/css/main.css
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 
 
@@ -27,6 +27,8 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+
+body{overflow: hidden;}
 
 ol, ul {
 	list-style: none;
@@ -2935,7 +2937,7 @@ input, select, textarea {
 		.wrapper.style1 {
 			background-color: #21b2a6;
 			color: #c8ece9;
-           height: 120vh;
+           height: 100vh;
 
 		}
 
