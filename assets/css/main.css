@@ -2648,6 +2648,7 @@ input, select, textarea {
         display: -webkit-flex;
         display: -ms-flex;
         display: flex;
+        height: 100vh;
     }
 
         .spotlight2 .image {
@@ -2930,7 +2931,7 @@ input, select, textarea {
 
 		.wrapper.alt {
 			padding: 0;
-            height: 150vh;
+            height: 120vh;
 
 		}
 
