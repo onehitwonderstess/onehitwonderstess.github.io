@@ -2981,13 +2981,13 @@ input, select, textarea {
         }
 
 .wrapper.style12 .fade{
-    -webkit-animation: 3s ease 0s normal forwards 1 fadein;
-    animation: 3s ease 0s normal forwards 1 fadein;
+    -webkit-animation: 2s ease 0s normal forwards 1 fadein;
+    animation: 2s ease 0s normal forwards 1 fadein;
 }
 
 .wrapper.style12 .fade2{
     -webkit-animation: 7s ease 0s normal forwards 1 fadein;
-    animation: 7s ease 0s normal forwards 1 fadein;
+    animation: 5s ease 0s normal forwards 1 fadein;
 }
 
 .wrapper.style12 .fade3{
@@ -4203,3 +4203,13 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
